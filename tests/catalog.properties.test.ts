@@ -114,7 +114,7 @@ describe("Catálogo_Lecciones y lógica pura — property-based", () => {
     );
     expect(totalLessons).toBe(lessons.length);
     // El Curso_Kiro_Spec_Driven tiene EXACTAMENTE 17 Lecciones (design.md).
-    expect(totalLessons).toBe(17);
+    expect(totalLessons).toBe(19);
   });
 
   // Property 8: toda lección tiene al menos dos objetivos y estimatedMinutes>0.

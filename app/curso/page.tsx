@@ -22,7 +22,7 @@ export default function CourseIndexPage() {
     <div>
       <h1 className="text-2xl sm:text-3xl font-bold text-slate-900 dark:text-slate-50">Índice del curso</h1>
       <p className="mt-2 text-slate-600 dark:text-slate-400">
-        17 lecciones organizadas por niveles sobre spec-driven development con
+        19 lecciones organizadas por niveles sobre spec-driven development con
         Kiro. Podés saltar de lección si querés — no hay bloqueo secuencial.
       </p>
 
